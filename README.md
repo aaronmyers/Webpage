@@ -1,3 +1,5 @@
+Althouh the above files have been slightly modified, I do not claim any credit for the source code and give full credit to Codrops. I post this work with their full Readme file below and I only post so I can have access to these files from multiple computers. 
+
 # "Sedna" One Page Website Template
 
 "Sedna" is a one page website template made by [Peter Finlan](http://peterfinlan.com/) exclusively for Codrops.
